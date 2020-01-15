@@ -1,0 +1,1135 @@
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp4\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp7\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8.5\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp12\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp14\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp15\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp17\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp18\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp22\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\liblept1753.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x86\libtesseract3052.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\liblept1753.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\x64\libtesseract3052.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ModuloProcesamientoImagenes.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Tesseract.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\DirectShowLib.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csprojAssemblyReference.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.csproj.CopyComplete
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloProcesamientoImagenes\obj\Debug\ModuloProcesamientoImagenes.pdb

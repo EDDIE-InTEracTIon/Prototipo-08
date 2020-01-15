@@ -1,0 +1,114 @@
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo\AugmentedReadingApp - copia\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp3\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp8\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp20\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\itextsharp.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\itextsharp.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CopyComplete
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\ModuloVisualizacionDatos.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.csproj.CopyComplete
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloVisualizacionDatos\obj\Debug\ModuloVisualizacionDatos.pdb

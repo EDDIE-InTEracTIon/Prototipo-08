@@ -1,0 +1,72 @@
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\itextsharp.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\itextsharp.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CopyComplete
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\ModuloConsistenciaDatos.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\itextsharp.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\bin\Debug\itextsharp.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csprojAssemblyReference.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.csproj.CopyComplete
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloConsistenciaDatos\obj\Debug\ModuloConsistenciaDatos.pdb

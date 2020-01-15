@@ -1,0 +1,456 @@
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+F:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+E:\Proyecto-Titulo\AugmentedReadingApp\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+E:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp5\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp11\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp13\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp16\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp21\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp25\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp26\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp27\ModuloReconocimientoGestual\bin\Debug\LeapCSharp.NET4.5.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\LeapCSharp.NET4.5.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp28\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\LeapCSharp.NET4.5.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp30\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\LeapCSharp.NET4.5.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Desktop\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp32\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\LeapCSharp.NET4.5.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+F:\Proyecto-Titulo 2\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\concrt140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\cvextern.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\msvcp140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x64\vcruntime140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\concrt140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\cvextern.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\msvcp140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\x86\vcruntime140.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ModuloReconocimientoGestual.pdb
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\LeapCSharp.NET4.5.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ZedGraph.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\Emgu.CV.World.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ZedGraph.xml
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csprojAssemblyReference.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CoreCompileInputs.cache
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.csproj.CopyComplete
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.dll
+C:\Users\ccont\Source\Repos\Proyecto-Titulo\AugmentedReadingApp33\ModuloReconocimientoGestual\obj\Debug\ModuloReconocimientoGestual.pdb
