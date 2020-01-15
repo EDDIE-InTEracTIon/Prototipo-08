@@ -1,0 +1,39 @@
++Control mouse lapiz complemento camara
++corregir complemento camara
++De pictureBox a imageBox
++imagen por coordenadas
++Modulo de concistencia
+-x86
+-skin Detect
+-leap detect
+
+        public void GetSettings()
+        {
+            numericUpDown9.Value = Properties.Settings.Default.ValorX1;
+            numericUpDown10.Value = Properties.Settings.Default.ValorY1;
+            numericUpDown17.Value = Properties.Settings.Default.ValorX2;
+            numericUpDown18.Value = Properties.Settings.Default.ValorY2;
+
+        }
+        public void SaveSettings()
+        {
+            Properties.Settings.Default.ValorX1 = (int)numericUpDown9.Value;
+            Properties.Settings.Default.ValorY1 = (int)numericUpDown10.Value;
+            Properties.Settings.Default.ValorX2 = (int)numericUpDown17.Value;
+            Properties.Settings.Default.ValorY2 = (int)numericUpDown18.Value;
+            Properties.Settings.Default.Save();
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SaveSettings();
+            GetSettings();
+        }
+
+        
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+            GetSettings();
+        }

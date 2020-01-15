@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AugmentedReadingApp", "AugmentedReadingApp\AugmentedReadingApp.csproj", "{F6FB7AC4-52B4-4EEA-9353-58065B161459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloProcesamientoImagenes", "ModuloProcesamientoImagenes\ModuloProcesamientoImagenes.csproj", "{85922B35-4947-4CE4-AA4D-204FAE05545C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloReconocimientoGestual", "ModuloReconocimientoGestual\ModuloReconocimientoGestual.csproj", "{C06EE3F2-7A0C-452D-AB74-C7B50026F370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloVisualizacionDatos", "ModuloVisualizacionDatos\ModuloVisualizacionDatos.csproj", "{290B7A7D-4D86-4ED5-92D5-16ED8935FF83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloConsistenciaDatos", "ModuloConsistenciaDatos\ModuloConsistenciaDatos.csproj", "{21EC1171-4D2B-497B-B369-50ADA53C2711}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ComplementosReconocimientoGestual", "ComplementosReconocimientoGestual", "{7432BB62-7783-4112-9635-D7D447A75581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPenRecognition", "ColorPenRecognition\ColorPenRecognition.csproj", "{66740C17-E621-420C-A735-14DC3E8F86CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotionRecognition", "LeapMotionRecognition\LeapMotionRecognition.csproj", "{43BF9FE8-C2F2-47E3-9A13-D6992E0E3E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandSkinRecognition", "HandSkinRecognition\HandSkinRecognition.csproj", "{6B1A4BDC-8405-4E8D-9A2D-4E28056129B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FB7AC4-52B4-4EEA-9353-58065B161459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FB7AC4-52B4-4EEA-9353-58065B161459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FB7AC4-52B4-4EEA-9353-58065B161459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FB7AC4-52B4-4EEA-9353-58065B161459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85922B35-4947-4CE4-AA4D-204FAE05545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85922B35-4947-4CE4-AA4D-204FAE05545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85922B35-4947-4CE4-AA4D-204FAE05545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85922B35-4947-4CE4-AA4D-204FAE05545C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06EE3F2-7A0C-452D-AB74-C7B50026F370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06EE3F2-7A0C-452D-AB74-C7B50026F370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06EE3F2-7A0C-452D-AB74-C7B50026F370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06EE3F2-7A0C-452D-AB74-C7B50026F370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290B7A7D-4D86-4ED5-92D5-16ED8935FF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290B7A7D-4D86-4ED5-92D5-16ED8935FF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290B7A7D-4D86-4ED5-92D5-16ED8935FF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290B7A7D-4D86-4ED5-92D5-16ED8935FF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EC1171-4D2B-497B-B369-50ADA53C2711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EC1171-4D2B-497B-B369-50ADA53C2711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EC1171-4D2B-497B-B369-50ADA53C2711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EC1171-4D2B-497B-B369-50ADA53C2711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66740C17-E621-420C-A735-14DC3E8F86CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66740C17-E621-420C-A735-14DC3E8F86CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66740C17-E621-420C-A735-14DC3E8F86CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66740C17-E621-420C-A735-14DC3E8F86CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BF9FE8-C2F2-47E3-9A13-D6992E0E3E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BF9FE8-C2F2-47E3-9A13-D6992E0E3E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BF9FE8-C2F2-47E3-9A13-D6992E0E3E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BF9FE8-C2F2-47E3-9A13-D6992E0E3E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1A4BDC-8405-4E8D-9A2D-4E28056129B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1A4BDC-8405-4E8D-9A2D-4E28056129B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1A4BDC-8405-4E8D-9A2D-4E28056129B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1A4BDC-8405-4E8D-9A2D-4E28056129B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66740C17-E621-420C-A735-14DC3E8F86CD} = {7432BB62-7783-4112-9635-D7D447A75581}
+		{43BF9FE8-C2F2-47E3-9A13-D6992E0E3E3C} = {7432BB62-7783-4112-9635-D7D447A75581}
+		{6B1A4BDC-8405-4E8D-9A2D-4E28056129B9} = {7432BB62-7783-4112-9635-D7D447A75581}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74785ED8-BCC4-407D-94A3-EBA4056B9E49}
+	EndGlobalSection
+EndGlobal
